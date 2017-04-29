@@ -1,0 +1,13 @@
+{
+  "name": "dionysiusmarquis/select-a-structure",
+  "description": "A select field for Kirby populated by a structure field",
+  "type": "library",
+  "require": {
+    "php": "^5.4 || ^7.0",
+    "getkirby/kirby": "2.4.*",
+    "getkirby/panel": "2.4.*"
+  },
+  "autoload": {
+    "files": ["index.php"]
+  }
+}
